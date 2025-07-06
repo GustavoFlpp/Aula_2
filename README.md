@@ -68,9 +68,3 @@ npm start -- 12345678909
 ├── tsconfig.json
 └── .gitignore
 ```
-
----
-
-## ✍️ Autor
-
-Gustavo Felippe — desenvolvido como parte da disciplina.
